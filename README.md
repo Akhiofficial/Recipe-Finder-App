@@ -28,7 +28,8 @@ API: MealDb API for fetching recipe data.
 ### How to Use 
 
 Clone the repository:
-git clone https://github.com/Akhiofficial/Recipe-Finder-App.git
+git clone
+`https://github.com/Akhiofficial/Recipe-Finder-App.git`
 
 Navigate to the project directory:
 
